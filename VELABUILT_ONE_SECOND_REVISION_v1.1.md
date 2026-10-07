@@ -1,6 +1,7 @@
 # VELABUILT — "ONE SECOND" · Revision v1.1
 ### Final creative-director challenge pass before production
 *Status: PLAN ONLY. Zero credits spent (balance 84.88). Awaiting approval.*
+*→ Execution superseded by `VELABUILT_ONE_SECOND_REVISION_v1.2.md` after the Higgsfield reference review. Where they differ, v1.2 wins.*
 *Changes only what's listed here; everything else in `VELABUILT_ONE_SECOND_PLAN.md` (v1) stays: the concept, frozen-time architecture, 06:47:12 timestamps, the tick motif, 60 BPM, the amber colour thread, the compositing-first transitions, the model choices and the checkpoint order.*
 
 ---
