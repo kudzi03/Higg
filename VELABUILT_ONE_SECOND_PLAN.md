@@ -1,6 +1,7 @@
 # VELABUILT — "ONE SECOND"
 ### Flagship vertical brand film · 36s · 9:16 · Pre-production bible v1
 *Status: PLAN ONLY. Zero credits spent. Awaiting approval.*
+*→ Revised by `VELABUILT_ONE_SECOND_REVISION_v1.1.md` (VO, brand line, phone reveal, endings, three businesses, credit ceiling, kill point). Where the two differ, v1.1 wins.*
 
 ---
 
