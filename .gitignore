@@ -1,1 +1,3 @@
 cp1/raw/
+cp2/work/*
+!cp2/work/*.json
